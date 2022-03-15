@@ -1,0 +1,28 @@
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\WeaponClass\WeaponClass\bin\Debug\netcoreapp3.1\WeaponClass.exe
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\WeaponClass\WeaponClass\bin\Debug\netcoreapp3.1\WeaponClass.deps.json
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\WeaponClass\WeaponClass\bin\Debug\netcoreapp3.1\WeaponClass.runtimeconfig.json
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\WeaponClass\WeaponClass\bin\Debug\netcoreapp3.1\WeaponClass.runtimeconfig.dev.json
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\WeaponClass\WeaponClass\bin\Debug\netcoreapp3.1\WeaponClass.dll
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\WeaponClass\WeaponClass\bin\Debug\netcoreapp3.1\WeaponClass.pdb
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\WeaponClass\WeaponClass\obj\Debug\netcoreapp3.1\WeaponClass.csproj.AssemblyReference.cache
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\WeaponClass\WeaponClass\obj\Debug\netcoreapp3.1\WeaponClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\WeaponClass\WeaponClass\obj\Debug\netcoreapp3.1\WeaponClass.AssemblyInfoInputs.cache
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\WeaponClass\WeaponClass\obj\Debug\netcoreapp3.1\WeaponClass.AssemblyInfo.cs
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\WeaponClass\WeaponClass\obj\Debug\netcoreapp3.1\WeaponClass.csproj.CoreCompileInputs.cache
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\WeaponClass\WeaponClass\obj\Debug\netcoreapp3.1\WeaponClass.dll
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\WeaponClass\WeaponClass\obj\Debug\netcoreapp3.1\WeaponClass.pdb
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\WeaponClass\WeaponClass\obj\Debug\netcoreapp3.1\WeaponClass.genruntimeconfig.cache
+C:\Users\tu7kswf4d\Desktop\WeaponClass\WeaponClass\WeaponClass\bin\Debug\netcoreapp3.1\WeaponClass.exe
+C:\Users\tu7kswf4d\Desktop\WeaponClass\WeaponClass\WeaponClass\bin\Debug\netcoreapp3.1\WeaponClass.deps.json
+C:\Users\tu7kswf4d\Desktop\WeaponClass\WeaponClass\WeaponClass\bin\Debug\netcoreapp3.1\WeaponClass.runtimeconfig.json
+C:\Users\tu7kswf4d\Desktop\WeaponClass\WeaponClass\WeaponClass\bin\Debug\netcoreapp3.1\WeaponClass.runtimeconfig.dev.json
+C:\Users\tu7kswf4d\Desktop\WeaponClass\WeaponClass\WeaponClass\bin\Debug\netcoreapp3.1\WeaponClass.dll
+C:\Users\tu7kswf4d\Desktop\WeaponClass\WeaponClass\WeaponClass\bin\Debug\netcoreapp3.1\WeaponClass.pdb
+C:\Users\tu7kswf4d\Desktop\WeaponClass\WeaponClass\WeaponClass\obj\Debug\netcoreapp3.1\WeaponClass.csproj.AssemblyReference.cache
+C:\Users\tu7kswf4d\Desktop\WeaponClass\WeaponClass\WeaponClass\obj\Debug\netcoreapp3.1\WeaponClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7kswf4d\Desktop\WeaponClass\WeaponClass\WeaponClass\obj\Debug\netcoreapp3.1\WeaponClass.AssemblyInfoInputs.cache
+C:\Users\tu7kswf4d\Desktop\WeaponClass\WeaponClass\WeaponClass\obj\Debug\netcoreapp3.1\WeaponClass.AssemblyInfo.cs
+C:\Users\tu7kswf4d\Desktop\WeaponClass\WeaponClass\WeaponClass\obj\Debug\netcoreapp3.1\WeaponClass.csproj.CoreCompileInputs.cache
+C:\Users\tu7kswf4d\Desktop\WeaponClass\WeaponClass\WeaponClass\obj\Debug\netcoreapp3.1\WeaponClass.dll
+C:\Users\tu7kswf4d\Desktop\WeaponClass\WeaponClass\WeaponClass\obj\Debug\netcoreapp3.1\WeaponClass.pdb
+C:\Users\tu7kswf4d\Desktop\WeaponClass\WeaponClass\WeaponClass\obj\Debug\netcoreapp3.1\WeaponClass.genruntimeconfig.cache
